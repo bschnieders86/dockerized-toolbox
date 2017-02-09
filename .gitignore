@@ -1,3 +1,7 @@
 ### SublimeText ###
 *.sublime-workspace
 *.sublime-project
+
+### Jetbeans IDE project settings ###
+.idea/*
+.idea
